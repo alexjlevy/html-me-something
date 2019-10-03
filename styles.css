@@ -1,0 +1,22 @@
+h1, h5, section {
+    text-align: center;
+}
+h1, h5{
+    margin: auto
+}
+
+ul{
+    list-style: none;
+  }
+li{
+    display: inline;
+    padding: .5em;
+  }
+body {
+    background:  grey;
+    color: black;
+  }
+  a {
+      color: black
+  }
+  
