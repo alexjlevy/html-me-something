@@ -1,7 +1,7 @@
-h1, h5, section {
+h2, h5, section {
     text-align: center;
 }
-h1, h5{
+h2, h5{
     margin: auto
 }
 
@@ -10,7 +10,7 @@ ul{
   }
 li{
     display: inline;
-    padding: .5em;
+    padding: .3em;
   }
 body {
     background:  grey;
